@@ -1,0 +1,90 @@
+Step 1 Programs
+---------------
+hello_world.c
+output_formatting.c
+exit_codes.c 
+explicit_streams.c 
+step1_summary.c 
+
+Step 2 Programs
+---------------
+variables_and_types.c 
+typedef_demo.c 
+block_scope.c 
+static_storage.c 
+
+Step 3 programs
+---------------
+logical_operators.c 
+ternary_operator.c 
+switch_cases.c 
+nested_ifs.c 
+
+Step 4 Programs
+---------------
+while_loops.c 
+for_loop.c 
+loop_control.c 
+nested_loops.c 
+
+Step 5 Programs
+---------------
+prototypes_and_signatures.c 
+pass_by_value_vs_reference.c 
+status_codes_and_output.c 
+recursion_demo.c 
+step5_summery.c 
+
+Step 6 Programs
+---------------
+array_basics.c 
+matrix_2d.c 
+string_handling.c 
+safe_string_input.c 
+
+Step 7 Programs
+---------------
+pointer_basics.c 
+pointer_arithmetic.c 
+array_pointer_duality.c 
+null_and_void_pointer.c 
+
+Step 8 Programs
+---------------
+malloc_basics.c 
+calloc_demo.c 
+realloc_safe.c 
+dynamic_2d_array.c 
+
+Step 9 Programs
+---------------
+struct_basics.c 
+typedef_struct_array.c 
+union_demo.c 
+enum_state_machine.c 
+
+Step 10 Programs
+----------------
+random_numbers.c 
+math_utilities.c    gcc math_utilities.c -lm -o math_utilities 
+file_write.c
+file_read.c 
+
+Step 11 Programs
+----------------
+calculator.c 
+temperature_converter.c 
+compound_interest.c 
+digital_clock.c 
+
+step 12 Programs
+----------------
+guessing_game.c
+rock_paper_scissors.c 
+quiz_game.c 
+donut.c 
+
+Step 13 Programs
+----------------
+linked_list.c        // Dynamic linked list implementation
+
